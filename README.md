@@ -20,4 +20,17 @@ El codigo de esta pantalla representa la lógica de la actividad contador en una
 
 Cambia el proyecto para que el segundo activity en vez de ser el contador sea un activity con un FrameLayout en el que se verán los diferentes fragments (mínimo home, contador, salir) y por otra parte una barra de navegación con la que podamos viajar entre los diferentes fragments.
 
+## Caputuras de los 3 Fragments
+
+![image](https://github.com/anavarroo/NavarroVegaM01/assets/117681310/ec111385-2e91-4ee8-b935-ba798687382b)
+
+![image](https://github.com/anavarroo/NavarroVegaM01/assets/117681310/4de3eca8-1433-43a2-96e8-9e57803d0b01)
+
+![image](https://github.com/anavarroo/NavarroVegaM01/assets/117681310/e2bdf599-ff96-489c-8322-2dc5dd8c3e43)
+
+En esta actividad creo un FrameLayout y en su interior Fragments los cuales navego entre ellos. El primero es una pantalla basica de Home, el segundo es la Actividad anterior y por ultimo, el tercer fragment contiene INFO sobre todas las activiades que iremos haciendo ademas de un boton para salir del PROGRAMA. 
+
+Ademas he creado nuevos directorios como puede ser el de MENU (donde como su nombre indica, he creado un menu de 3 FRAGMENTS),el repositorio NAVIGATION  y nuevos elementos como pueden ser la imagen de la portada y diferentes iconos en el directorio DRAWABLE. 
+
+
 
