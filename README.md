@@ -15,3 +15,4 @@ Este pantalla gestionará la autenticación de usuarios en una aplicación Andro
 
 El codigo de esta pantalla representa la lógica de la actividad contador en una aplicación Android. La actividad se encarga de mostrar un mensaje de bienvenida personalizado en un TextView, utilizando el nombre de usuario pasado como extra desde la actividad anterior. 
 
+f
