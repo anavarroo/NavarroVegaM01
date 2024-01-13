@@ -28,9 +28,9 @@ Cambia el proyecto para que el segundo activity en vez de ser el contador sea un
 
 ![image](https://github.com/anavarroo/NavarroVegaM01/assets/117681310/e2bdf599-ff96-489c-8322-2dc5dd8c3e43)
 
-En esta actividad creo un FrameLayout y en su interior Fragments los cuales navego entre ellos. El primero es una pantalla basica de Home, el segundo es la Actividad anterior y por ultimo, el tercer fragment contiene INFO sobre todas las activiades que iremos haciendo ademas de un boton para salir del PROGRAMA. 
+En esta actividad creo un FrameLayout y en su interior Fragments los cuales navego entre ellos con una barra de navegacion. El primero es una pantalla basica de Home con una imagen, el segundo es la Actividad anterior (contador) y por ultimo, el tercer fragment contiene INFO sobre todas las activiades que iremos haciendo. 
 
-Ademas he creado nuevos directorios como puede ser el de MENU (donde como su nombre indica, he creado un menu de 3 FRAGMENTS),el repositorio NAVIGATION  y nuevos elementos como pueden ser la imagen de la portada y diferentes iconos en el directorio DRAWABLE. 
+Ademas he creado nuevos directorios como puede ser el de MENU (donde como su nombre indica, he creado un menu de 3 botones para acceder a todos los fragments), el repositorio NAVIGATION donde se encuentran todos los FRAGMENTS creados y nuevos elementos como pueden ser la imagen de la portada y diferentes iconos en el directorio DRAWABLE. 
 
 
 
