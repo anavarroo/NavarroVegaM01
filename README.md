@@ -22,15 +22,16 @@ Cambia el proyecto para que el segundo activity en vez de ser el contador sea un
 
 ## Caputuras de los 3 Fragments
 
-![image](https://github.com/anavarroo/NavarroVegaM01/assets/117681310/ec111385-2e91-4ee8-b935-ba798687382b)
+![image](https://github.com/anavarroo/NavarroVegaM01/assets/117681310/9b9854ff-9f1c-41c4-9666-8c5b44208be2)
 
-![image](https://github.com/anavarroo/NavarroVegaM01/assets/117681310/4de3eca8-1433-43a2-96e8-9e57803d0b01)
+![image](https://github.com/anavarroo/NavarroVegaM01/assets/117681310/cec530c9-bd0c-4c9f-ac16-cbadcf294292)
 
-![image](https://github.com/anavarroo/NavarroVegaM01/assets/117681310/e2bdf599-ff96-489c-8322-2dc5dd8c3e43)
+![image](https://github.com/anavarroo/NavarroVegaM01/assets/117681310/f6a2c844-3c00-4fdd-bad6-0658b4e7ebb2)
 
-En esta actividad creo un FrameLayout y en su interior Fragments los cuales navego entre ellos con una barra de navegacion. El primero es una pantalla basica de Home con una imagen, el segundo es la Actividad anterior (contador) y por ultimo, el tercer fragment contiene INFO sobre todas las activiades que iremos haciendo. 
 
-Ademas he creado nuevos directorios como puede ser el de MENU (donde como su nombre indica, he creado un menu de 3 botones para acceder a todos los fragments), el repositorio NAVIGATION donde se encuentran todos los FRAGMENTS creados y nuevos elementos como pueden ser la imagen de la portada y diferentes iconos en el directorio DRAWABLE. 
+En esta actividad creo un FrameLayout y en su interior 4 Fragments los cuales navego entre ellos con una barra de navegacion. El primero es una pantalla basica de Home con una imagen, el segundo es la Actividad anterior (contador) el tercer fragment contiene INFO sobre todas las activiades que iremos haciendo y por ultimo Salir, si lo pulsas cierras sesion y vuelves al LOGIN.
+
+Ademas he creado nuevos directorios como puede ser el de MENU (donde como su nombre indica, he creado un menu de 4 botones para acceder a todos los fragments), el repositorio NAVIGATION donde se encuentran todos los FRAGMENTS creados y nuevos elementos como pueden ser la imagen de la portada y diferentes iconos en el directorio DRAWABLE. 
 
 
 
