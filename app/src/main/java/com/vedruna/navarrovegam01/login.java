@@ -8,8 +8,6 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.vedruna.navarrovegam01.R;
-
 public class login extends AppCompatActivity {
 
     private TextView mensaje;
@@ -33,7 +31,7 @@ public class login extends AppCompatActivity {
 
         if (username.equals("admin") && contraseña.equals("admin")){
             String usuario = username;
-            Intent intent = new Intent(login.this,contador.class);
+            Intent intent = new Intent(login.this, ContenedorFragmentActivity.class);
             intent.putExtra("usuario",usuario);
             startActivity(intent);
 

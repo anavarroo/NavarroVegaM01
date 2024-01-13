@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2F2F2F"
+    tools:context=".InfoFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="@font/poppins"
+        android:gravity="center"
+        android:text="En esta aplicacion ire desarrollando difentes actividades. Cada fragment consta de una nueva actividad de la asignatura Multimedia. "
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:translationY="-250sp"
+        android:typeface="sans" />
+
+    <LinearLayout
+        android:layout_width="356dp"
+        android:layout_height="329dp"
+        android:layout_gravity="center"
+        android:gravity="center|left"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/poppins"
+            android:text="Activides realizadas: "
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:translationY="-10sp"
+            android:typeface="sans" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/poppins"
+            android:text="- Crear un login"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:typeface="sans" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/poppins"
+            android:text="- Crear un contador"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:translationY="10sp"
+            android:typeface="sans" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="315dp"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/poppins"
+            android:text="- Crear diferentes Fragments y navegar por ellos a traves de un FrameLayout "
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:translationY="20sp"
+            android:typeface="sans" />
+    </LinearLayout>
+
+</FrameLayout>
