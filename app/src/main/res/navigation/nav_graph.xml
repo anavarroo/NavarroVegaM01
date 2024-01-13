@@ -20,4 +20,9 @@
         android:name="com.vedruna.navarrovegam01.InfoFragment"
         android:label="fragment_info"
         tools:layout="@layout/fragment_info" />
+    <fragment
+        android:id="@+id/salirFragment"
+        android:name="com.vedruna.navarrovegam01.SalirFragment"
+        android:label="fragment_salir"
+        tools:layout="@layout/fragment_salir" />
 </navigation>

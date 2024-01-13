@@ -71,6 +71,7 @@
             android:textSize="20sp"
             android:translationY="20sp"
             android:typeface="sans" />
+
     </LinearLayout>
 
 </FrameLayout>
