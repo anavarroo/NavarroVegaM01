@@ -15,14 +15,22 @@
         android:name="com.vedruna.navarrovegam01.ContadorFragment"
         android:label="fragment_contador"
         tools:layout="@layout/fragment_contador" />
+
     <fragment
         android:id="@+id/infoFragment"
         android:name="com.vedruna.navarrovegam01.InfoFragment"
         android:label="fragment_info"
         tools:layout="@layout/fragment_info" />
     <fragment
+        android:id="@+id/apiFragment"
+        android:name="com.vedruna.navarrovegam01.ApiFragment"
+        android:label="fragment_api"
+        tools:layout="@layout/fragment_api" />
+
+    <fragment
         android:id="@+id/salirFragment"
         android:name="com.vedruna.navarrovegam01.SalirFragment"
         android:label="fragment_salir"
         tools:layout="@layout/fragment_salir" />
+
 </navigation>
