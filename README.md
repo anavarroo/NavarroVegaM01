@@ -47,5 +47,11 @@ Añade un Fragment mas que se llame API y sigue el tutorial (para la parte del c
 ### Terminal
 ![image](https://github.com/anavarroo/NavarroVegaM01/assets/117681310/5a765a1f-b9b0-46c1-9c4a-3a8589de91c4)
 
+### Postman
+![image](https://github.com/anavarroo/NavarroVegaM01/assets/117681310/a3f99ab7-4194-4c26-9a76-620fcffd4492)
+
+
+En este EJ04 he creado un Fragment llamado API, en el cual no muestro nada por la interfaz grafica sino por el terminal. En el mismo aparecen todos los productos que tiene la API que consumo registrados en su BBDD (H2). Esta API solo consta de una entidad (Products) y su metodo correspondiente (getAllProducts) para obtener la lista de todos los registros de Productos. 
+
 
 
