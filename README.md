@@ -34,4 +34,15 @@ En esta actividad creo un FrameLayout y en su interior 4 Fragments los cuales na
 Ademas he creado nuevos directorios como puede ser el de MENU (donde como su nombre indica, he creado un menu de 4 botones para acceder a todos los fragments), el repositorio NAVIGATION donde se encuentran todos los FRAGMENTS creados y nuevos elementos como pueden ser la imagen de la portada y diferentes iconos en el directorio DRAWABLE. 
 
 
+# EJERCICIO 04
+
+Añade un Fragment mas que se llame API y sigue el tutorial (para la parte del consumo de la API) proporcionado para consumir un API con android(en esta entrega no tendrás que reflejar los resultado en la interfaz gráfica, solo en el log). Por otro lado crea un microservicio con una sola entidad.
+
+### Nuevo Fragment
+![image](https://github.com/anavarroo/NavarroVegaM01/assets/117681310/53738711-5527-4f79-93d2-7c86c9e144a4)
+
+### Terminal
+![image](https://github.com/anavarroo/NavarroVegaM01/assets/117681310/5a765a1f-b9b0-46c1-9c4a-3a8589de91c4)
+
+
 
