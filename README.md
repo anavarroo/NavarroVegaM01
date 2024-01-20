@@ -41,6 +41,9 @@ Añade un Fragment mas que se llame API y sigue el tutorial (para la parte del c
 ### Nuevo Fragment
 ![image](https://github.com/anavarroo/NavarroVegaM01/assets/117681310/53738711-5527-4f79-93d2-7c86c9e144a4)
 
+### Entidad
+![image](https://github.com/anavarroo/NavarroVegaM01/assets/117681310/3acd20ec-c80a-4376-989a-dc306382a864)
+
 ### Terminal
 ![image](https://github.com/anavarroo/NavarroVegaM01/assets/117681310/5a765a1f-b9b0-46c1-9c4a-3a8589de91c4)
 
